@@ -64,3 +64,10 @@
   width: 50%;
   display: inline;
 }
+
+/* Media query para mobile */
+@media (max-width: 769px) {
+  .icone-setas {
+    max-width: 50px;
+  }
+}
