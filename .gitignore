@@ -1,4 +1,7 @@
 **/__pycache__/
 db.sqlite3
-**/media/**
+**/media/
 .vscode/
+db.sqlite3
+venv/
+**/Env.py
